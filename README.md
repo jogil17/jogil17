@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jogil17&label=Profile%20views&color=0e75b6&style=flat" alt="jogil17" /> </p>
 
-- 🌱 I’m currently studying at **Universitat Illes Balears**
+- 🎓 Graduated in Computer Engineering from Universitat de les Illes Balears
 
 - 📫 How to reach me **jogil17@yahoo.es**
 
-- ⚡ Fun fact **I am funny**
+- 🎯 Future cybersecurity expert in the making 💪
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
